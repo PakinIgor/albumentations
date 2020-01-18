@@ -1,3 +1,5 @@
+_source - ML Trainings - T-01/18/2020 - https://youtu.be/7EHqDBq2E7c
+
 # Albumentations
 [![PyPI version](https://badge.fury.io/py/albumentations.svg)](https://badge.fury.io/py/albumentations)
 [![Build Status](https://travis-ci.org/albumentations-team/albumentations.svg?branch=master)](https://travis-ci.org/albu/albumentations)
